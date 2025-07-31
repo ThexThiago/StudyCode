@@ -1,6 +1,5 @@
-# 🐍 StudyCode Python - Plataforma de Estudos
-
-Uma plataforma moderna e dinâmica para organizar seus estudos de programação Python, desenvolvida com Streamlit.
+# 🐍 StudyCode - Gerenciamento de Estudos
+Uma plataforma moderna e dinâmica para organizar seus estudos de programação.
 
 ## ✨ Características
 
@@ -106,23 +105,4 @@ Você pode facilmente personalizar:
 3. **Categorias**: Adicione novas categorias de estudo
 4. **Métricas**: Inclua novas análises e gráficos
 
-## 📈 Próximas Funcionalidades
 
-- 🔐 Sistema de autenticação
-- ☁️ Sincronização na nuvem
-- 📱 Versão mobile otimizada
-- 🎯 Sistema de metas e recompensas
-- 📊 Relatórios em PDF
-- 🔔 Notificações de estudo
-
-## 🤝 Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades!
-
-## 📄 Licença
-
-Este projeto é open source e está disponível sob a licença MIT.
-
----
-
-**Desenvolvido com 🐍 Python e muito ❤️**
