@@ -42,32 +42,20 @@ Uma plataforma moderna e dinâmica para organizar seus estudos de programação.
 ## 🚀 Como Executar
 
 ### Pré-requisitos
-\`\`\`bash
+\`\`\`
 pip install streamlit pandas plotly
 \`\`\`
 
 ### Executar a Aplicação
-\`\`\`bash
 # Método 1: Usando o script run.py
 python run.py
 
 # Método 2: Diretamente com Streamlit
 streamlit run app.py
-\`\`\`
 
 ### Acessar a Aplicação
 Abra seu navegador em: `http://localhost:8501`
 
-## 📁 Estrutura do Projeto
-
-\`\`\`
-study-platform/
-├── app.py              # Aplicação principal
-├── run.py              # Script para executar
-├── requirements.txt    # Dependências
-├── README.md          # Documentação
-└── study_data.json    # Dados persistidos (criado automaticamente)
-\`\`\`
 
 ## 🎨 Tecnologias Utilizadas
 
