@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "title": "Python",
+      "description": "Estudar Aplicação Web",
+      "category": "Backend",
+      "difficulty": "Intermediário",
+      "estimated_hours": 5,
+      "resources": [
+        "youtube"
+      ],
+      "id": "1",
+      "created_at": "2025-07-30",
+      "completed": false
+    },
+    {
+      "title": "Matematica",
+      "description": "Ah entendi sobre como funciona o cálculo matematico",
+      "category": "Fração, Subtração  e Adição",
+      "difficulty": "Intermediário",
+      "estimated_hours": 1,
+      "resources": [
+        "Youtube"
+      ],
+      "id": "2",
+      "created_at": "2025-07-30",
+      "completed": true
+    }
+  ],
+  "sessions": [
+    {
+      "topic_id": "1",
+      "duration": 1.0,
+      "notes": "Parte teorica da Programação",
+      "id": "1",
+      "date": "2025-07-30"
+    }
+  ]
+}
