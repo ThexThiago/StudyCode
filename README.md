@@ -1,45 +1,46 @@
 # 🐍 StudyCode - Gerenciamento de Estudos
 Uma plataforma moderna e dinâmica para organizar seus estudos de programação.
 
-## ✨ Características
+##  Características
 
-### 🎨 Design Moderno e Dinâmico
+###  Design Moderno e Dinâmico
 - **Imagens de fundo** com gradientes e efeitos visuais
 - **Animações CSS** suaves e profissionais
 - **Cards interativos** com efeitos hover
 - **Layout responsivo** que se adapta a diferentes telas
 - **Tema glassmorphism** com transparências e blur effects
 
-### 📊 Funcionalidades Principais
+### Funcionalidades Principais
 
 #### Dashboard Interativo
-- 📈 **Métricas visuais** com cards coloridos animados
-- 📊 **Gráficos interativos** usando Plotly
-- 🎯 **Barra de progresso** em tempo real
-- 📋 **Estatísticas detalhadas** do seu aprendizado
+-  **Métricas visuais** com cards coloridos animados
+- **Gráficos interativos** usando Plotly
+- **Barra de progresso** em tempo real
+- **Estatísticas detalhadas** do seu aprendizado
 
 #### Gerenciamento de Tópicos
-- ➕ **Criar tópicos** com título, descrição, categoria
-- ⚡ **Definir dificuldade** (Iniciante, Intermediário, Avançado)
-- ⏰ **Estimar horas** de estudo necessárias
-- 📚 **Adicionar recursos** (links, livros, cursos)
-- ✅ **Marcar como concluído**
-- 🗑️ **Excluir tópicos**
+-  **Criar tópicos** com título, descrição, categoria
+-  **Definir dificuldade** (Iniciante, Intermediário, Avançado)
+-  **Estimar horas** de estudo necessárias
+-  **Adicionar recursos** (links, livros, cursos)
+- **Marcar como concluído**
+- **Excluir tópicos**
 
 #### Registro de Sessões
-- ⏱️ **Registrar sessões** com duração e anotações
-- 📝 **Adicionar notas** detalhadas do que foi estudado
-- 📅 **Histórico completo** ordenado por data
-- 🔗 **Vincular sessões** aos tópicos específicos
+-  **Registrar sessões** com duração e anotações
+-  **Adicionar notas** detalhadas do que foi estudado
+-  **Histórico completo** ordenado por data
+-  
+**Vincular sessões** aos tópicos específicos
 
 #### Análises Avançadas
-- 📈 **Gráfico temporal** da evolução dos estudos
-- 📊 **Análise por dificuldade** e categoria
-- 🏆 **Identificar tópicos** mais estudados
-- 📋 **Estatísticas detalhadas** por categoria
-- ⏱️ **Métricas de produtividade**
+-  **Gráfico temporal** da evolução dos estudos
+-  **Análise por dificuldade** e categoria
+-  **Identificar tópicos** mais estudados
+-  **Estatísticas detalhadas** por categoria
+- **Métricas de produtividade**
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 \`\`\`
@@ -57,7 +58,7 @@ streamlit run app.py
 Abra seu navegador em: `http://localhost:8501`
 
 
-## 🎨 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Streamlit** - Framework web para Python
 - **Plotly** - Gráficos interativos
@@ -65,7 +66,7 @@ Abra seu navegador em: `http://localhost:8501`
 - **CSS3** - Animações e efeitos visuais
 - **JSON** - Persistência de dados local
 
-## 📱 Recursos Visuais
+## Recursos Visuais
 
 ### Imagens de Fundo
 - Gradientes dinâmicos
@@ -84,7 +85,7 @@ Abra seu navegador em: `http://localhost:8501`
 - Cards com gradientes únicos
 - Tema glassmorphism
 
-## 🔧 Personalização
+## Personalização
 
 Você pode facilmente personalizar:
 
